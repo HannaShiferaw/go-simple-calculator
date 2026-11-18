@@ -1,3 +1,3 @@
-module go-calculator
+module go-simple-calculator
 
 go 1.25.0
